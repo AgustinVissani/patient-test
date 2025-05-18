@@ -1,0 +1,15 @@
+{
+    "configuracion": "button:has-text('Configuración')",
+    "pacientes": "nav >> text=PacientesHistorias Clí",
+    "formularios": "button:has-text('Formularios')",
+    "crearFormulario": "button:has-text('Crear Formulario')",
+    "nombreFormulario": "input[aria-label='Nombre del formulario']",
+    "nombreSeccion": "input[aria-label='Nombre de la sección']",
+    "agregarSeccion": "button:has-text('Agregar Sección')",
+    "agregarCampos": "button:has-text('Agregar Campos')",
+    "etiquetaCampo": "input[aria-label='Etiqueta del campo']",
+    "tipoCampo": "select[aria-label='Tipo de campo']",
+    "agregarCampo": "button:has-text('Agregar Campo')",
+    "guardarFormulario": "button:has-text('Guardar Formulario')"
+  }
+  

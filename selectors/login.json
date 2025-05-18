@@ -1,0 +1,6 @@
+{
+    "email": "input[placeholder='Correo electrónico']",
+    "password": "input[placeholder='Contraseña']",
+    "loginButton": "button:has-text('Ingresar')"
+  }
+  
